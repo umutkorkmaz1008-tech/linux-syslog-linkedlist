@@ -1,0 +1,6 @@
+Jan 10 14:32:11 server sshd: Accepted password for user
+Jan 10 14:35:02 server systemd: Started Session
+Jan 10 14:40:55 server kernel: USB device connected
+Jan 10 14:50:12 server sudo: user executed command
+
+
